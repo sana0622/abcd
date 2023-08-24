@@ -14,3 +14,8 @@ print(len(l))
 list=[1,'music','subject',25,True]
 list[2]='bgm'
 print(list)
+
+
+l=["apple","mango","pineapple","orange"]
+l.pop(2)
+print(l)
